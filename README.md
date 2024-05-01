@@ -23,3 +23,5 @@ Make sure to use Merge Commits when dealing with the subtree here. For some reas
 
 - Document how we are using Vite
 - Create a cookie cutter template package to use with Vite
+
+;)
